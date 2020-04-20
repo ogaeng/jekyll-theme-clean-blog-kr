@@ -1,0 +1,25 @@
+title:              "블로그 제목"
+tagline:            "블로그 슬로건"
+email:              "your-email@example.com"
+description:        "블로그 설명"
+author:             "작성자 이름"
+baseurl:            "/"
+url:                "https://도메인"
+locale:             "ko_KR"
+thumbnail:          "/img/thumbnail.jpg"
+
+# Social Profiles
+twitter_username:   twitter_username
+instagram_username: instagram_username
+facebook_username:  facebook_username
+linkedin_username:  linkedin_username
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
