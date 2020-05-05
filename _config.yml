@@ -20,6 +20,4 @@ permalink:          /:title
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
-  - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap
