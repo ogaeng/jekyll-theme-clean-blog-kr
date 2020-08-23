@@ -5,3 +5,4 @@ _site
 .git
 .git0
 node_modules
+.jekyll-cache
