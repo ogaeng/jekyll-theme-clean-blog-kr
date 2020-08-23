@@ -1,16 +1,16 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
-email:              "your-email@example.com"
-description:        "블로그 설명"
-author:             "작성자 이름"
+title:              "브랜드 인사이트"
+tagline:            "슬로건"
+email:              "hohehiha13@naver.com"
+description:        "브랜드의 철학, 비지니스를 알아보기 위한 글"
+author:             "김은경"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://eunkyung.kr"
 locale:             "ko_KR"
 thumbnail:          "/img/thumbnail.jpg"
 
 # Social Profiles
 twitter_username:   twitter_username
-instagram_username: instagram_username
+instagram_username: _eunkyung13
 facebook_username:  facebook_username
 linkedin_username:  linkedin_username
 
@@ -18,6 +18,6 @@ linkedin_username:  linkedin_username
 markdown:           kramdown
 permalink:          /:title
 paginate:           5
-paginate_path:      "/posts/page:num/"
+paginate_path:      "/posts/thumbnail_1200x628px/"
 plugins:
   - jekyll-paginate
