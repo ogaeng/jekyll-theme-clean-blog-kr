@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /bluebottle/
-title: '블루보틀 인사이트'
+title: '마켓컬리 인사이트'
 date: 2020-08-23 11:30:00 +09:00
 feature: '/img/posts/02/thumbnail_1200x628px.jpg'
 background: '/img/posts/02/background_1280x720px.jpg'
