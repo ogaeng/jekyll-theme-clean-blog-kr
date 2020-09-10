@@ -9,10 +9,8 @@ locale:             "ko_KR"
 thumbnail:          "/img/thumbnail.jpg"
 
 # Social Profiles
-twitter_username:   twitter_username
 instagram_username: _eunkyung13
-facebook_username:  facebook_username
-linkedin_username:  linkedin_username
+
 
 # Build settings
 markdown:           kramdown
