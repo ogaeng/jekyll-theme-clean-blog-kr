@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://eunkyung.kr/sitemap.xml
+DaumWebMasterTool:aef089c1f46ae63680c0603caa290238f57cb65b7534a07b26630f18e46930cd:o0L+zAizlSgyOKCCT0cRvw==
