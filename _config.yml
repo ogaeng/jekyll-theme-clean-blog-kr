@@ -19,3 +19,6 @@ paginate:           5
 paginate_path:      "/posts/thumbnail_1200x628px/"
 plugins:
   - jekyll-paginate
+
+disqus:
+  shortname: eunkyung-kr
