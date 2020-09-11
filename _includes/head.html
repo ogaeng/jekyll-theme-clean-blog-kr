@@ -95,4 +95,35 @@
 <meta name="theme-color" content="#ffffff">
 <!-- End Favicon Tag -->
 
+<!-- 네이버 연관채널 -->
+<script type="application/ld+json">
+{
+ "@context": "http://schema.org",
+ "@type": "Person",
+ "name": "{{ site.title }}",
+ "url": "{{ site.url }}",
+ "sameAs": [
+   "https://www.instagram.com/_eunkyung13"
+ ]
+}
+</script>
+<!-- End 네이버 연관채널 -->
+
+<!-- 아티클 구조화된 데이터 -->
+{%if page.feature %}
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "{{ page.title }}",
+      "image": [
+        "{{ site.github.url }}{{ page.feature }}",
+       ],
+      "datePublished": "{{ page.date }}"
+    }
+    </script>
+    {% endif %}
+    <!-- End 아티클 구조화된 데이터 -->
+    <meta name="naver-site-verification" content="e5d0f0aa871e0ae98b8ef014bb2538eab5a63d9e" />
+
 </head>
