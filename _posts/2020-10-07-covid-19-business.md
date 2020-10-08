@@ -29,7 +29,7 @@ description: '코로나로 인해 바뀐 비지니스 시장을 알아보기 위
 **"패션업계 마스크 출시"**
 버버리, 헤지스의 경우 마스크를 출시하였다. (*아래 이미지 참고)
 
-![Alt text](C:\Users\MZ02-KEK\Desktop\STUDY\8주차\과제\4. image_1.png)
+![image_1](https://ifh.cc/g/x9g21y.png)
 
 **#2 가정 간편식 산업 활성화**
 
@@ -40,7 +40,7 @@ description: '코로나로 인해 바뀐 비지니스 시장을 알아보기 위
 **"가정 간편식 출시"**
 파리바게트의 경우 가정간편식을 출시하였다. (*아래 이미지 참고)
 
-![Alt text](C:\Users\MZ02-KEK\Desktop\STUDY\8주차\과제\4. image_2.jpg)
+![image_2](https://ifh.cc/g/c8ytQj.jpg)
 
 살펴본 바와 같이 다수 브랜드에서 코로나로 인해 마스크나 가정 간편식을 출시하고 있는 상황이다.
 앞으로 어떻게 비지니스 시장이 변화할 지 기대되는 바이다.
