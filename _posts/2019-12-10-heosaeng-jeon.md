@@ -4,7 +4,6 @@ permalink: /heosaeng-jeon/
 title: '연암 박지원의 조선 현실 풍자 소설 허생전'
 date: 2019-12-10 14:30:00 +09:00
 feature: '/img/posts/01/feature_heosang-jeon.jpg'
-background: '/img/posts/01/bg_heosang-jeon.jpg'
 categories:
   - category-1
 tags:

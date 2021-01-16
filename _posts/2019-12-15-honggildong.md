@@ -4,7 +4,6 @@ permalink: /honggildong/
 title: '동에 번쩍 서에 번쩍 홍길동전'
 date: 2019-12-15 15:30:00 +09:00
 feature: '/img/posts/02/feature_honggildong.jpg'
-background: '/img/posts/02/bg_honggildong.jpg'
 categories:
   - category-2
 tags:
