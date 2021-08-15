@@ -1,12 +1,12 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
-email:              "your-email@example.com"
-description:        "블로그 설명"
-author:             "작성자 이름"
+title:              "zipsoonhee"
+tagline:            "집순희의 마케팅 인사이트"
+email:              "zip.soon.hee@gmail.com"
+description:        "브랜드 마케터의 고군분투 성장기를 기록합니다."
+author:             "집순희"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "www.zipsoonhee.com/"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/thumb.png"
 
 # Social Profiles
 twitter_username:   twitter_username
