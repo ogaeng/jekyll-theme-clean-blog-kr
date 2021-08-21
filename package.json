@@ -28,12 +28,12 @@
     "dependencies": {
         "bootstrap": "4.3.1",
         "font-awesome": "4.7.0",
-        "jquery": "3.4.1",
+        "jquery": "^3.6.0",
         "lodash": "^4.17.20",
         "startbootstrap-clean-blog": "5.0.8"
     },
     "devDependencies": {
-        "browser-sync": "2.26.7",
+        "browser-sync": "^2.27.5",
         "gulp": "4.0.2"
     }
 }
