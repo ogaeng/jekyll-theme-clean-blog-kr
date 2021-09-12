@@ -96,4 +96,18 @@
   <meta name="theme-color" content="#ffffff">
   <!-- End Favicon Tag -->
 
+<!-- 구조화된 태그 아티클 -->
+  {% if page.feature %}
+    <script type="application/ld+json">
+       {
+         "@context": "https://schema.org",
+         "@type": "NewsArticle",
+         "headline": "{{ page.title }}",
+         "image": [
+           "{{ site.github.url }}{{ page.feature }}"
+          ],
+         "datePublished": "{{ page.date | date_to_xmlschema }}",
+         }
+       </script>
+    {% endif %}
 </head>
