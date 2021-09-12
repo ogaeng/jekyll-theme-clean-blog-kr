@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://zipsoonhee.com/sitemap.xml
+
+#DaumWebMasterTool:734fac904abb6c846abdfb2685e8e83ffb8c3686cc0fb1e8ef0632f5c77b40b2:yW+jE+HZqfx5FHikzuVRfw==
